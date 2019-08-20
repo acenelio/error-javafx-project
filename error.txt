@@ -1,0 +1,168 @@
+JavaFX launchApplication method: launchMode=LM_CLASS
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-console-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-console-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-datetime-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-datetime-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-debug-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-debug-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-errorhandling-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-errorhandling-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-file-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-file-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-file-l1-2-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-file-l1-2-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-file-l2-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-file-l2-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-handle-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-handle-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-heap-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-heap-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-interlocked-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-interlocked-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-libraryloader-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-libraryloader-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-localization-l1-2-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-localization-l1-2-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-memory-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-memory-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-namedpipe-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-namedpipe-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-processenvironment-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-processenvironment-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-processthreads-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-processthreads-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-processthreads-l1-1-1.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-processthreads-l1-1-1.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-profile-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-profile-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-rtlsupport-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-rtlsupport-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-string-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-string-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-synch-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-synch-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-synch-l1-2-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-synch-l1-2-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-sysinfo-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-sysinfo-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-timezone-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-timezone-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-core-util-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-core-util-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-crt-conio-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-crt-conio-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-crt-convert-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-crt-convert-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-crt-environment-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-crt-environment-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-crt-filesystem-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-crt-filesystem-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-crt-heap-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-crt-heap-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-crt-locale-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-crt-locale-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-crt-math-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-crt-math-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-crt-multibyte-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-crt-multibyte-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-crt-private-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-crt-private-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-crt-process-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-crt-process-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-crt-runtime-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-crt-runtime-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-crt-stdio-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-crt-stdio-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-crt-string-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-crt-string-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-crt-time-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-crt-time-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\api-ms-win-crt-utility-l1-1-0.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\api-ms-win-crt-utility-l1-1-0.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\ucrtbase.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\ucrtbase.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\vcruntime140.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\vcruntime140.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\msvcp140.dll
+Loaded C:\Program Files\Java\jdk-11.0.3\bin\msvcp140.dll from java.library.path
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\concrt140.dll
+Loaded C:\WINDOWS\system32\concrt140.dll from java.library.path
+Prism pipeline init order: d3d sw
+Using Double Precision Marlin Rasterizer
+Using dirty region optimizations
+Not using texture mask for primitives
+Not forcing power of 2 sizes for textures
+Using hardware CLAMP_TO_ZERO mode
+Opting in for HiDPI pixel scaling
+Prism pipeline name = com.sun.prism.d3d.D3DPipeline
+Loading D3D native library ...
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\prism_d3d.dll
+GraphicsPipeline.createPipeline failed for com.sun.prism.d3d.D3DPipeline
+java.lang.UnsatisfiedLinkError: no prism_d3d in java.library.path: [C:\Program Files\Java\jdk-11.0.3\bin, C:\WINDOWS\Sun\Java\bin, C:\WINDOWS\system32, C:\WINDOWS, C:\WINDOWS\system32, C:\WINDOWS, C:\WINDOWS\System32\Wbem, C:\WINDOWS\System32\WindowsPowerShell\v1.0\, C:\Program Files (x86)\GtkSharp\2.12\bin, C:\xampp\mysql\bin, C:\Program Files\nodejs\, C:\Android\sdk\tools, C:\Android\sdk\tools\bin, C:\Android\sdk\platform-tools, C:\Android\sdk\build-tools\19.1.0, C:\Gradle\gradle-4.5\bin, C:\Program Files\MongoDB\Server\3.6\bin, C:\Program Files\dotnet\, C:\Program Files\Microsoft SQL Server\130\Tools\Binn\, C:\WINDOWS\System32\OpenSSH\, C:\Program Files\Git\cmd, C:\Program Files\Microsoft VS Code\bin, C:\Program Files\MySQL\MySQL Server 8.0\bin, C:\Program Files\Java\jdk-11.0.3\bin, C:\Ruby26-x64\bin, C:\Users\Nelio\AppData\Local\Microsoft\WindowsApps, ., C:\Program Files\Microsoft VS Code\bin, C:\Program Files\Heroku\bin, C:\Users\Nelio\AppData\Roaming\npm, .]
+        at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2660)
+        at java.base/java.lang.Runtime.loadLibrary0(Runtime.java:829)
+        at java.base/java.lang.System.loadLibrary(System.java:1867)
+        at javafx.graphics/com.sun.glass.utils.NativeLibLoader.loadLibraryInternal(NativeLibLoader.java:150)
+        at javafx.graphics/com.sun.glass.utils.NativeLibLoader.loadLibrary(NativeLibLoader.java:52)
+        at javafx.graphics/com.sun.prism.d3d.D3DPipeline.lambda$static$0(D3DPipeline.java:48)
+        at java.base/java.security.AccessController.doPrivileged(Native Method)
+        at javafx.graphics/com.sun.prism.d3d.D3DPipeline.<clinit>(D3DPipeline.java:44)
+        at java.base/java.lang.Class.forName0(Native Method)
+        at java.base/java.lang.Class.forName(Class.java:315)
+        at javafx.graphics/com.sun.prism.GraphicsPipeline.createPipeline(GraphicsPipeline.java:187)
+        at javafx.graphics/com.sun.javafx.tk.quantum.QuantumRenderer$PipelineRunnable.init(QuantumRenderer.java:91)
+        at javafx.graphics/com.sun.javafx.tk.quantum.QuantumRenderer$PipelineRunnable.run(QuantumRenderer.java:124)
+        at java.base/java.lang.Thread.run(Thread.java:834)
+*** Fallback to Prism SW pipeline
+Prism pipeline name = com.sun.prism.sw.SWPipeline
+WARNING: java.lang.UnsatisfiedLinkError: Can't load library: C:\appfolder\bin\prism_sw.dll
+GraphicsPipeline.createPipeline failed for com.sun.prism.sw.SWPipeline
+java.lang.UnsatisfiedLinkError: no prism_sw in java.library.path: [C:\Program Files\Java\jdk-11.0.3\bin, C:\WINDOWS\Sun\Java\bin, C:\WINDOWS\system32, C:\WINDOWS, C:\WINDOWS\system32, C:\WINDOWS, C:\WINDOWS\System32\Wbem, C:\WINDOWS\System32\WindowsPowerShell\v1.0\, C:\Program Files (x86)\GtkSharp\2.12\bin, C:\xampp\mysql\bin, C:\Program Files\nodejs\, C:\Android\sdk\tools, C:\Android\sdk\tools\bin, C:\Android\sdk\platform-tools, C:\Android\sdk\build-tools\19.1.0, C:\Gradle\gradle-4.5\bin, C:\Program Files\MongoDB\Server\3.6\bin, C:\Program Files\dotnet\, C:\Program Files\Microsoft SQL Server\130\Tools\Binn\, C:\WINDOWS\System32\OpenSSH\, C:\Program Files\Git\cmd, C:\Program Files\Microsoft VS Code\bin, C:\Program Files\MySQL\MySQL Server 8.0\bin, C:\Program Files\Java\jdk-11.0.3\bin, C:\Ruby26-x64\bin, C:\Users\Nelio\AppData\Local\Microsoft\WindowsApps, ., C:\Program Files\Microsoft VS Code\bin, C:\Program Files\Heroku\bin, C:\Users\Nelio\AppData\Roaming\npm, .]
+        at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2660)
+        at java.base/java.lang.Runtime.loadLibrary0(Runtime.java:829)
+        at java.base/java.lang.System.loadLibrary(System.java:1867)
+        at javafx.graphics/com.sun.glass.utils.NativeLibLoader.loadLibraryInternal(NativeLibLoader.java:150)
+        at javafx.graphics/com.sun.glass.utils.NativeLibLoader.loadLibrary(NativeLibLoader.java:52)
+        at javafx.graphics/com.sun.prism.sw.SWPipeline.lambda$static$0(SWPipeline.java:42)
+        at java.base/java.security.AccessController.doPrivileged(Native Method)
+        at javafx.graphics/com.sun.prism.sw.SWPipeline.<clinit>(SWPipeline.java:41)
+        at java.base/java.lang.Class.forName0(Native Method)
+        at java.base/java.lang.Class.forName(Class.java:315)
+        at javafx.graphics/com.sun.prism.GraphicsPipeline.createPipeline(GraphicsPipeline.java:187)
+        at javafx.graphics/com.sun.javafx.tk.quantum.QuantumRenderer$PipelineRunnable.init(QuantumRenderer.java:91)
+        at javafx.graphics/com.sun.javafx.tk.quantum.QuantumRenderer$PipelineRunnable.run(QuantumRenderer.java:124)
+        at java.base/java.lang.Thread.run(Thread.java:834)
+Graphics Device initialization failed for :  d3d, sw
+Error initializing QuantumRenderer: no suitable pipeline found
+java.lang.RuntimeException: java.lang.RuntimeException: Error initializing QuantumRenderer: no suitable pipeline found
+        at javafx.graphics/com.sun.javafx.tk.quantum.QuantumRenderer.getInstance(QuantumRenderer.java:280)
+        at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.init(QuantumToolkit.java:222)
+        at javafx.graphics/com.sun.javafx.tk.Toolkit.getToolkit(Toolkit.java:260)
+        at javafx.graphics/com.sun.javafx.application.PlatformImpl.startup(PlatformImpl.java:267)
+        at javafx.graphics/com.sun.javafx.application.PlatformImpl.startup(PlatformImpl.java:158)
+        at javafx.graphics/com.sun.javafx.application.LauncherImpl.startToolkit(LauncherImpl.java:658)
+        at javafx.graphics/com.sun.javafx.application.LauncherImpl.launchApplicationWithArgs(LauncherImpl.java:409)
+        at javafx.graphics/com.sun.javafx.application.LauncherImpl.launchApplication(LauncherImpl.java:363)
+        at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+        at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+        at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+        at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+        at java.base/sun.launcher.LauncherHelper$FXHelper.main(LauncherHelper.java:1051)
+Caused by: java.lang.RuntimeException: Error initializing QuantumRenderer: no suitable pipeline found
+        at javafx.graphics/com.sun.javafx.tk.quantum.QuantumRenderer$PipelineRunnable.init(QuantumRenderer.java:94)
+        at javafx.graphics/com.sun.javafx.tk.quantum.QuantumRenderer$PipelineRunnable.run(QuantumRenderer.java:124)
+        at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "main" java.lang.reflect.InvocationTargetException
+        at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+        at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+        at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+        at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+        at java.base/sun.launcher.LauncherHelper$FXHelper.main(LauncherHelper.java:1051)
+Caused by: java.lang.RuntimeException: No toolkit found
+        at javafx.graphics/com.sun.javafx.tk.Toolkit.getToolkit(Toolkit.java:272)
+        at javafx.graphics/com.sun.javafx.application.PlatformImpl.startup(PlatformImpl.java:267)
+        at javafx.graphics/com.sun.javafx.application.PlatformImpl.startup(PlatformImpl.java:158)
+        at javafx.graphics/com.sun.javafx.application.LauncherImpl.startToolkit(LauncherImpl.java:658)
+        at javafx.graphics/com.sun.javafx.application.LauncherImpl.launchApplicationWithArgs(LauncherImpl.java:409)
+        at javafx.graphics/com.sun.javafx.application.LauncherImpl.launchApplication(LauncherImpl.java:363)
+        ... 5 more
